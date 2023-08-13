@@ -1,0 +1,28 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äù”²8Ş¸ÿÔ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“»âÂ8ƒ¹ÿÔ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êÀŸ¾üÿÿÿÿ8ƒ¹ÿÔ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ÁŒûÿÿÿÿ8ƒ¹ÿÔ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ï¤«8ƒ¹ÿÔ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù÷Ç÷8ƒ¹ÿÔ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ç½Ñúÿÿÿÿ8ƒ¹ÿÔ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¹8…¹ÿÔ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠùÈ©úÿÿÿÿ8…¹ÿÔ1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ƒ„ğªûÿÿÿÿ8…¹ÿÔ1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(‰Ä¯Å8†¹ÿÔ1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Ë¹8†¹ÿÔ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ŠùÈ©úÿÿÿÿ8‡¹ÿÔ1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒ„ğªûÿÿÿÿ8‡¹ÿÔ1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(àûÿˆ8‡¹ÿÔ1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(»ºû½8ˆ¹ÿÔ1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(üö®¿úÿÿÿÿ8ˆ¹ÿÔ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ŸÀÖøşÿÿÿÿ8‰¹ÿÔ1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Â¯Ó8‰¹ÿÔ1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ÈÏÕ°üÿÿÿÿ8‰¹ÿÔ1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(Ø®¨“şÿÿÿÿ8‰¹ÿÔ1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(¦åÿË8‰¹ÿÔ1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(°ç½Ñúÿÿÿÿ8‰¹ÿÔ1
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(Ï³í8Š¹ÿÔ1
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(„şŠ£üÿÿÿÿ8‹¹ÿÔ1
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ÁšÊéüÿÿÿÿ8‹¹ÿÔ1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(Óóßòùÿÿÿÿ8…¢ƒÕ1

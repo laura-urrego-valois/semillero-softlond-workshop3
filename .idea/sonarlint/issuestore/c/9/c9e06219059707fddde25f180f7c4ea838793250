@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý È×8ò«“Ðž1
+V
+java:S5993"9Change the visibility of this constructor to "protected".(Ÿ„ˆÆ8«­›Ðž1
+„
+java:S3038"b"sendNotification" is defined in the "INotification" interface and can be removed from this class.(½êƒÍùÿÿÿÿ8ñ®ÑÒž1

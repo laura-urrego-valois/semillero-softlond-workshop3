@@ -1,0 +1,6 @@
+
+o
+java:S1104"RMake author a static final constant or non-public and provide accessors if needed.(ÌÊß›8àˆµÜ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ©¿
+[
+java:S5993	"9Change the visibility of this constructor to "protected".(…ªÚ˜ûÿÿÿÿ8ÙÄµÜ1
