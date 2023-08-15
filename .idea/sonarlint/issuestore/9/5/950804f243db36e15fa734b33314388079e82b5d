@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ôÎ·
+„
+java:S3038"b"calculateArea" is defined in the "IGeometricFigure" interface and can be removed from this class.(òº‘ïûÿÿÿÿ8¶°î¶Ÿ1
+‰
+java:S3038
+"g"calculatePerimeter" is defined in the "IGeometricFigure" interface and can be removed from this class.(òº‘ïûÿÿÿÿ8·°î¶Ÿ1

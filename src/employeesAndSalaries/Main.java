@@ -53,14 +53,14 @@ public class Main {
                         case 2:
                             System.out.print("Enter the hourly employee's id: ");
                             int idHourlyEmployee = scanner.nextInt();
-                            scanner.nextLine(); // Consume the newline character
+                            scanner.nextLine();
                             System.out.print("Enter the name of the hourly employee: ");
                             String hourlyEmployeeName = scanner.nextLine();
                             System.out.print("Enter the number of hours worked: ");
                             int totalHoursWorked = scanner.nextInt();
                             System.out.print("Enter the hourly rate: ");
                             double hourlyRateEmployee = scanner.nextDouble();
-                            scanner.nextLine(); // Consume the newline character
+                            scanner.nextLine();
                             HourlyEmployee hourlyEmployee = new HourlyEmployee(idHourlyEmployee, hourlyEmployeeName, totalHoursWorked, hourlyRateEmployee);
                             employees.add(hourlyEmployee);
                             break;

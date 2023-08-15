@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ï¥ëüÿÿÿÿ8¸à“¶Ÿ1
+[
+java:S5993"9Change the visibility of this constructor to "protected".(Ø¨ìÕýÿÿÿÿ8ºà“¶Ÿ1
+}
+java:S3038"["play" is defined in the "IMusicalInstrument" interface and can be removed from this class.(òº‘ïûÿÿÿÿ8³ùÈ¶Ÿ1
