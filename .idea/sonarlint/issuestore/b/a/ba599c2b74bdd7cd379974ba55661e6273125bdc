@@ -3,6 +3,6 @@
 java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "roundedArea".(«ÉÙ8İÜ–“1
 Š
 java:S1488 "hImmediately return this expression instead of assigning it to the temporary variable "roundedPerimeter".(´Ñ›‘øÿÿÿÿ8À·˜“1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Îãùÿÿÿÿ8¶Ç‘1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È†‘8¶Ç‘1
 _
 java:S1659	"BDeclare "side2" and all following declarations on a separate line.(ºìÀ³8ÖÇ‘1
