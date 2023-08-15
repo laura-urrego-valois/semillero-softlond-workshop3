@@ -55,18 +55,12 @@ N
 src/animalsAndSounds/Bird.java,1\e\1e2d6d41e5da6d8d421f6ce4180137d1b5d95df1
 `
 0src/geometricFigures/concreteClasses/Circle.java,a\c\acea871a4b6d1bad93a61ec6d82272f08360e4ef
-a
-1src/geometricShapesAndAreas/IGeometricFigure.java,7\e\7e1e8651962b7808c2016ccf48544e421e23dad9
 e
 5src/geometricFigures/interfaces/IGeometricFigure.java,6\8\680f82ca2b729376f561172ade176a342b35bb26
-W
-'src/geometricShapesAndAreas/Square.java,b\6\b60346ed8521771085cd3dcc8de01e98afc8e737
 `
 0src/geometricFigures/concreteClasses/Square.java,1\6\166567e0fdca49c418424d98eb108b21e58f90c7
 b
 2src/geometricFigures/concreteClasses/Triangle.java,b\a\ba599c2b74bdd7cd379974ba55661e6273125bdc
-Y
-)src/geometricShapesAndAreas/Triangle.java,a\d\add709257202bfa3127643cbd85cddbe6f61580f
 k
 ;src/geometricShapesAndAreas/abstractClasses/BasicShape.java,9\c\9c5bfcdd691f3ef1af1cebe4de3e77bd15f42f79
 g
@@ -101,8 +95,6 @@ P
  src/figuresOnACanvas/Square.java,9\9\99cdc2dae85913bee1950e479d955a04713f6df7
 R
 "src/figuresOnACanvas/Triangle.java,d\6\d6ad4663c6875987155674fa8c18221ff6de9486
-Q
-!src/figuresOnACanvas/Diamond.java,d\a\da62f44c3dac0ffe8a643cce0d909d95ed9f7cd7
 ]
 -src/musicalInstrument/IMusicalInstrument.java,7\7\77d820b346cd924b53cb5de689afedf51a8f4128
 P
@@ -129,3 +121,5 @@ P
  src/notificationSystem/Main.java,1\d\1dda91c854629d49bbd653f0649c0584e211371f
 I
 src/onlineStore/Main.java,4\4\44c872ac72ff731ee903fb4a5ddec1e95e46132c
+Q
+!src/figuresOnACanvas/Diamond.java,d\a\da62f44c3dac0ffe8a643cce0d909d95ed9f7cd7
